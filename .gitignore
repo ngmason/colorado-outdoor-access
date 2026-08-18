@@ -16,6 +16,10 @@
 *.aprx~
 *.ppkx~
 
+# ArcGIS Pro generated indexes and import logs
+**/Index/
+**/ImportLog/
+
 # Python cache
 __pycache__/
 *.py[cod]
