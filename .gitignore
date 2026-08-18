@@ -1,0 +1,41 @@
+# ArcGIS Pro temporary / lock files
+*.lock
+*.sr.lock
+
+# ArcGIS Pro indexes / caches / backups
+*.idx
+*.bak
+*.tmp
+*.log
+
+# File geodatabases
+*.gdb/
+*.geodatabase/
+
+# ArcGIS project backups
+*.aprx~
+*.ppkx~
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Large or generated data
+data/raw/*
+data/processed/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
