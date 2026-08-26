@@ -26,3 +26,12 @@ Initial project setup.
 - **Year:** 2024
 - **Purpose:** Census tract boundaries used as the geographic units for the accessibility analysis.
 - **Source:** [U.S. Census Bureau TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/2024/geo/tiger-line-file.html)
+
+### U.S. Census Bureau — American Community Survey
+
+- **Dataset:** 2024 ACS 5-Year Estimates — B01003: Total Population
+- **File:** `ACSDT5Y2024.B01003_2026-08-26T124604`
+- **Provider:** U.S. Census Bureau
+- **Year:** 2024
+- **Purpose:** Provides total population estimates for each Colorado census tract. Population data are joined to the 2024 TIGER/Line census tract geography using tract GEOIDs.
+- **Source:** [2024 ACS 5-Year B01003 — Total Population](https://data.census.gov/table/ACSDT5Y2024.B01003)

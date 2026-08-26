@@ -20,6 +20,9 @@
 **/Index/
 **/ImportLog/
 
+# ArcGIS Pro geoprocessing messages
+**/GpMessages/
+
 # Python cache
 __pycache__/
 *.py[cod]
