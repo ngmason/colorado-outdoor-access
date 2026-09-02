@@ -35,3 +35,14 @@ Initial project setup.
 - **Year:** 2024
 - **Purpose:** Provides total population estimates for each Colorado census tract. Population data are joined to the 2024 TIGER/Line census tract geography using tract GEOIDs.
 - **Source:** [2024 ACS 5-Year B01003 — Total Population](https://data.census.gov/table/ACSDT5Y2024.B01003)
+
+### Colorado Trail Explorer (COTREX) Trailheads
+
+- **Source:** Colorado Parks and Wildlife (CPW)
+- **Dataset:** COTREX Trailheads June 2025
+- **Data last updated:** July 14, 2025
+- **Geometry:** Point
+- **Features:** 2,574 trailheads
+- **Spatial reference:** WGS 84 (EPSG:4326)
+- **Accessed:** September 2, 2026
+- **Source:** [COTREX Trailheads June 2025 Feature Service](https://services5.arcgis.com/ttNGmDvKQA7oeDQ3/ArcGIS/rest/services/COTREX_Trailheads_June_2025/FeatureServer/0)
