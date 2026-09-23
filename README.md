@@ -4,7 +4,21 @@ A GIS portfolio project exploring geographic access to public outdoor recreation
 
 ## Project Status
 
-Initial project setup.
+Proximity analysis in progress.
+
+Completed:
+- Prepared 2024 Colorado census tract population data using ACS 5-Year estimates.
+- Joined population estimates to 2024 TIGER/Line census tract boundaries.
+- Imported and stored 2,574 COTREX trailheads as a local feature class.
+- Created representative points for Colorado census tracts.
+- Calculated nearest-trailhead distance for each census tract using geodesic proximity analysis.
+- Converted proximity results to miles for interpretation and mapping.
+
+Next steps:
+- Join trailhead-distance results back to census tract polygons.
+- Analyze and classify outdoor recreation accessibility.
+- Create final cartographic layout and supporting statistics.
+- Document methodology, findings, and limitations.
 
 ## Planned Workflow
 
